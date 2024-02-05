@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/canoeRampage-v2/static/css/main.ae15e94b.css",
+    "main.js": "/canoeRampage-v2/static/js/main.4a09405e.js",
+    "static/js/787.eed7ccc3.chunk.js": "/canoeRampage-v2/static/js/787.eed7ccc3.chunk.js",
+    "static/media/rock.png": "/canoeRampage-v2/static/media/rock.8123bfb80caa7025d46b.png",
+    "static/media/boat.png": "/canoeRampage-v2/static/media/boat.da1930292a034ed66502.png",
+    "static/media/river.jpg": "/canoeRampage-v2/static/media/river.6176576404c0d1c2f26a.jpg",
+    "index.html": "/canoeRampage-v2/index.html",
+    "main.ae15e94b.css.map": "/canoeRampage-v2/static/css/main.ae15e94b.css.map",
+    "main.4a09405e.js.map": "/canoeRampage-v2/static/js/main.4a09405e.js.map",
+    "787.eed7ccc3.chunk.js.map": "/canoeRampage-v2/static/js/787.eed7ccc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae15e94b.css",
+    "static/js/main.4a09405e.js"
+  ]
+}
