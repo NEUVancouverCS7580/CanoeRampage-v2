@@ -1,0 +1,23 @@
+/* controls.css */
+
+.controls {
+  white-space: nowrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls button {
+  font-size: inherit;
+  box-sizing: border-box;
+  height: 8vh; /* Set the fixed height relative to viewport height */
+  width: 16vw; /* Set the fixed width relative to viewport width */
+}
+
+.controls button.left {
+  margin-right: 4vw; /* Set the desired right margin relative to viewport width */
+}
+
+.controls button.right {
+  margin-left: 4vw; /* Set the desired left margin relative to viewport width */
+}
